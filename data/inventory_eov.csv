@@ -1,1 +1,4 @@
-
+ship_name,product_id,product_name,microcategory_name,on_hand_units,on_hand_value
+OASIS,101,Navy Blazer,BLAZERS,120,6000
+OASIS,102,Black Shoes,FOOTWEAR,240,7200
+SYMPHONY,101,Navy Blazer,BLAZERS,80,4000

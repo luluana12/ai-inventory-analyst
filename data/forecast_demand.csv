@@ -1,1 +1,6 @@
+ship_name,product_id,week_start,forecast_units
+OASIS,101,2024-11-01,10
+OASIS,102,2024-11-01,50
+SYMPHONY,101,2024-11-01,12
+
 
